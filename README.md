@@ -1,10 +1,28 @@
 👽 Welcome Terraquio!👽
 
-🏴This is Dev Dionata Rech I enjoy creating great software and helping others do the same.
-I have some personal hobbies that I like to share, which are sports in general and online games,
-but I spend most of my time inside the IDE having fun doing what I really like.
-I have a beautiful family with a newborn puppy that serves as fuel to achieve great things.🏴
-goals.
+Desenvolvimento Web de Alto Impacto — Transforme Ideias em Soluções Escaláveis
+
+Como desenvolvedor web com experiência em tecnologias modernas, estou comprometido em criar aplicações eficientes, seguras e prontas para escalar. Se você precisa de um parceiro que vai além do código, oferecendo soluções otimizadas para o seu negócio, eu sou a pessoa certa.
+
+Minha Stack Tecnológica:
+
+Frontend fluido e responsivo: Utilizo HTML5, CSS, JavaScript, Bootstrap, React, e Vite para entregar interfaces intuitivas e dinâmicas que engajam seus usuários.
+Backend : Domínio em Node.js, Fastify, Express e  Axios , para integração perfeita com APIs ultilizo Axios ou Fastfy. Crio backends ágeis e prontos para atender grandes volumes de dados.
+Bancos de dados sólidos: Experiência com PostgreSQL . Faço uso do Prisma para conectar eficientemente bancos de dados e garantir a integridade das informações.
+Segurança : Implemento bcrypt e UUID para proteger suas aplicações e garantir a segurança de dados sensíveis.
+Git, Github e Gitflow para versionamento de projeto : Trabalho com equipes de forma organizada, utilizando Git e práticas de Gitflow para garantir que cada colaboração seja clara e produtiva.
+
+Por que trabalhar comigo?
+
+Resiliência e Proatividade: Não me intimido por problemas complexos. Busco sempre a melhor solução de forma criativa e ágil.
+
+Facilidade de aprendizado: Não importa o desafio ou tecnologia, tenho uma capacidade única de aprender rápido e aplicar soluções modernas e eficazes.
+
+Colaboração Eficiente: Com experiência em trabalho colaborativo e metodologias ágeis, me integro facilmente a equipes e projetos já em andamento, garantindo fluidez no desenvolvimento.
+
+Vamos transformar seu projeto em uma aplicação de impacto, com soluções personalizadas e seguras. Se você busca resultados que elevam seu negócio, estou à disposição para colaborar.
+
+Entre em contato e vamos juntos levar sua ideia ao próximo nível!
 
 ## About me 🥇
 
